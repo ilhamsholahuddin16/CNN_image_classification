@@ -245,6 +245,3 @@ This project is created for educational purposes as part of Dicoding Deep Learni
 - **MobileNetV2 Paper:** Efficient ConvNets for Mobile Vision Applications
 
 ---
-
-
-**⭐ Jika project ini sesuai, jangan lupa berikan 5 star!**
